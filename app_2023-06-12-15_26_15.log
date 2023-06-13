@@ -1,0 +1,9 @@
+2023-Jun-12 15:26:17 pm [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Jun-12 15:26:17 pm [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Jun-12 15:26:21 pm [main] INFO  core.WebDriverFactory - navigate to url
+2023-Jun-12 15:26:21 pm [main] INFO  StepDef.StepDefFile - Done Mouse hover on 'Earring' from Menu
+2023-Jun-12 15:26:22 pm [main] INFO  StepDef.StepDefFile - Various types of gold earring is display
+2023-Jun-12 15:26:22 pm [main] INFO  StepDef.StepDefFile - Validate product list page with its title, title is: Shop latest designs of gold earrings online from Candere by Kalyan Jewellers
+2023-Jun-12 15:26:28 pm [main] INFO  StepDef.StepDefFile - Product description page is display
+2023-Jun-12 15:26:28 pm [main] INFO  StepDef.StepDefFile - Validate product list page with its title, title is: Anomaa Tushi Kyra Gold Earrings
+2023-Jun-12 15:26:47 pm [main] INFO  core.WebDriverFactory - Quit the browser
